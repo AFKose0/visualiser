@@ -1,4 +1,4 @@
-# visualiser
+# Visualiser
 A visualiser of molecules hitting the mass photometer
 
 Summary so far:
