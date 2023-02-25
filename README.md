@@ -11,6 +11,9 @@ A visualiser of molecules hitting a mass photometer rectangle.
 -	Then plotting each reading sequentially.
 
 
+
+
+
 **Order overall:**
 1. xy.txt
 2. frame_indicies.txt
@@ -24,6 +27,9 @@ A visualiser of molecules hitting a mass photometer rectangle.
 **Misc files:**
 1. max.py
 2. sort_frame_indices.py creates possibleframerange.txt - unsure what I used this for.
+
+
+
 
 
 **Current logic:**
