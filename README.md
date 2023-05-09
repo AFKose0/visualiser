@@ -1,6 +1,12 @@
 # Visualiser
 A visualiser of molecules hitting a mass photometer rectangle.
 
+**New code for presentation:**
+
+Shows all landing events over time so they can be visualised better. 
+
+
+
 **Summary so far:**
 
 -	Created 2 initial text files from BSA.csv: (1) recorded (x,y) values on mass photometer rectangle, (2) frame indices of each coordinate.
